@@ -1,0 +1,3 @@
+register user api  http://localhost:5000/api/users
+login user api     http://localhost:5000/api/login
+product api        http://localhost:5000/api/products

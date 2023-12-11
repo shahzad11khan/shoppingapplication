@@ -1,0 +1,21 @@
+/* Add your custom styles here */
+.login-container {
+    display: flex;
+    /* justify-content: center; */
+    padding: auto;
+    margin: auto;
+    margin-left: 31rem;
+    text-align: center;
+    /* align-items: center; */
+    /* height: 100vh; */
+}
+
+.login-form {
+      background-color: rgb(162, 177, 172);
+    margin-top: 60px;
+    width: 600px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
